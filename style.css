@@ -1,18 +1,12 @@
-*:focus {
-    outline: none;
-}
-
 body {
+    margin: 0;
+    padding: 0;
     background: url('https://pbs.twimg.com/media/FSqxVfkXEAA9HMx.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center; 
     background-size: cover;
     border-radius: 100%;
-}
-
-body {
-    text-shadow: 2px 2px 8px #000000;
 }
 
 header {
